@@ -2,15 +2,33 @@
 <html lang="in">
 <head>
 				<meta charset="UTF-8">
-				<title>filmovie</title>
-				<link rel="stylesheet" href="https://dl.dropbox.com/s/gqre0l1wuvodbm2/style.css">
-				</head>
-				<body>
-								<div align="center">
-								<button class="btn btn-primary" onclick="toggleMusic()" id="play" data-play="false"> <i class="fa fa-play"></i> <span id="btn-text">PLAY</span></button></div>
-												
-								<video id="video" controls autoplay poster="../gambar/trans7.png" src="../m3u8tv/trans7.m3u8" width="100%" height="120%"> alt=""></video>
-								<script src="https://dl.dropbox.com/s/xgxbn7jo7606613/script.js"></script>
-
+				<title>Page title</title>
+				<link rel="stylesheet" href="../vodi/cs.css"></link>
+</head>
+<body>
+				<div class="vdi1" id="vdi1">
+								
+								<video controls controlslist='nofullscreen nodownload' class='video' id='myvideo' ></video>
+								<div class='controls'> <div class='progress'> <div class='progress__filled'></div> </div> <button class='controls__button' data-skip='-10'><b>« 10s</b></button> <button class='controls__button toggleButton' title='Toggle Play'><b>▶</b></button> <button class='controls__button' data-skip='25'><b>10s »</b></button> </div> </div>
+								
+				</div>
 </body>
+<script>
+				
+				var myvid = document.getElementById('myvideo');
+var myvids = [""," ../m3u8tv/trans7.m3u8 "," end " ];
+var activeVideo = 0;
+
+myvid.poster =' ../gambar/trans7.png ';
+
+myvid.addEventListener('ended', function(e) {
+  // update the new active video index
+  activeVideo = (++activeVideo) % myvids.length;
+
+  // update the video source and play
+  myvid.src = myvids[activeVideo];
+  myvid.play();
+});</script>
+<script src="../vodi/js.js"></script>
+<script src="../vodi/time.js"></script>
 </html>
