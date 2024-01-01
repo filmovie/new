@@ -478,5 +478,5 @@ a8.innerHTML = "<a class='film' href=' vod/20th.Century.Boys.3.Redemption.(2009)
 scrollmenu.appendChild(a8);
 
 let a6 = document.createElement('span');
-a6.innerHTML = "<a class='film' href=' vod/Doraemon.Nobita.and.the.New.Steel.Troops.Winged.Angels.(2011).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/jbszRvlAtGGHZK4qOAREHChg2P7.jpg ' alt=' Doraemon.Nobita.and.the.New.Steel.Troops.Winged.Angels.(2011).dubbing '></button></a>";
+a6.innerHTML = "<a class='film' href=' fvod/Doraemon.Nobita.and.the.New.Steel.Troops.Winged.Angels.(2011).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/jbszRvlAtGGHZK4qOAREHChg2P7.jpg ' alt=' Doraemon.Nobita.and.the.New.Steel.Troops.Winged.Angels.(2011).dubbing '></button></a>";
 scrollmenu.appendChild(a6);
