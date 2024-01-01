@@ -4,10 +4,10 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-Doraemon_Nobita's.New.Dinosaur.(2020).dubbing.html
+Doraemon_Nobita.s.New.Dinosaur.(2020).dubbing.html
 */
 let a120 = document.createElement('span');
-a120.innerHTML = "<a class='film' href=' fvod/Doraemon_Nobita's.New.Dinosaur.(2020).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg ' alt=' Doraemon_Nobita's.New.Dinosaur.(2020).dubbing '></button></a>";
+a120.innerHTML = "<a class='film' href=' fvod/Doraemon_Nobita.s.New.Dinosaur.(2020).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg ' alt=' Doraemon_Nobita's.New.Dinosaur.(2020).dubbing '></button></a>";
 scrollmenu.appendChild(a120);
 let a119 = document.createElement('span');
 a119.innerHTML = "<a class='film' href=' fvod/Jurassic.Park.III.(2001).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg ' alt=' Jurassic.Park.III.(2001).dubbing '></button></a>";
