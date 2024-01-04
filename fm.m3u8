@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWr0fq6Lo-cBYIGDYjUmWDfeK-kyovWpPnQ&usqp=CAU" group-title="tv", rtv
+https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="tv", wesal tv
 https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/wesaltv.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="tv", batu tv
@@ -29,6 +31,8 @@ https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/01-ttv.png" group-title="tv", transtv
 https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/transtv.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wyh51mR03XXASZkmEKr1MiOEzoJ.jpg" group-title="filmovie", Detective Conan Movie 2 Case Closed: The Fourteenth Target (1998) dubbing
+https://filmovie.github.io/Ze380Tu0d/i85FtikK9rZ/KY6d3.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/abW5AzHDaIK1n9C36VdAeOwORRA.jpg" group-title="filmovie", Cars (2006) dubbing
 https://filmovie.github.io/Ze380Tu0d/i85FtikK9rZ/tY6d3.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg" group-title="filmovie", Doraemon: Nobita's New Dinosaur (2020) dubbing
