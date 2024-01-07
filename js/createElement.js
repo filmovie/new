@@ -11,7 +11,7 @@ a123.innerHTML = "<a class='film' href=' fvod/Suzzanna.Malam.Jumat.Kliwon.(2023)
 scrollmenu.appendChild(a123);
 
 let a9 = document.createElement('span');
-a9.innerHTML = "<a class='film' href=' fvod/Big.Brother.(2018).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/z6Y6uQn2fORr7o43EggQrTsp08o.jpg ' alt=' Big.Brother.(2018) '></button></a>";
+a9.innerHTML = "<a class='film' href=' fvod/Big.Brother.(2018).html ' target='_blank'><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/z6Y6uQn2fORr7o43EggQrTsp08o.jpg ' alt=' Big.Brother.(2018) '></button></a>";
 scrollmenu.appendChild(a9);
 
 let a6 = document.createElement('span');
