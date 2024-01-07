@@ -10,6 +10,10 @@ let a124 = document.createElement('span');
 a124.innerHTML = "<a class='film' href=' fvod/Ford.v.Ferrari.(2019).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg ' alt=' Ford.v.Ferrari.(2019).dubbing '></button></a>";
 scrollmenu.appendChild(a124);
 
+let a24 = document.createElement('span');
+a24.innerHTML = "<a class='film' href=' fvod/Journey.to.the.West.Ask.tao.(2023).html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/ff7fqmj6735l0t4/1680450273-picsay.jpg ' alt=' Journey.to.the.West.Ask.tao.(2023) '></button></a>";
+scrollmenu.appendChild(a24);
+
 let a21 = document.createElement('span');
 a21.innerHTML = "<a class='film' href=' fvod/Titanic.(1997).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg ' alt=' Titanic.(1997) '></button></a>";
 scrollmenu.appendChild(a21);
@@ -469,10 +473,6 @@ scrollmenu.appendChild(a26);
 let a25 = document.createElement('span');
 a25.innerHTML = "<a class='film' href=' fvod/F9.the.Fast.Saga.(2021).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg ' alt=' F9.the.Fast.Saga.(2021) '></button></a>";
 scrollmenu.appendChild(a25);
-
-let a24 = document.createElement('span');
-a24.innerHTML = "<a class='film' href=' fvod/Journey.to.the.West.Ask.tao.(2023).html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/ff7fqmj6735l0t4/1680450273-picsay.jpg ' alt=' Journey.to.the.West.Ask.tao.(2023) '></button></a>";
-scrollmenu.appendChild(a24);
 
 let a23 = document.createElement('span');
 a23.innerHTML = "<a class='film' href=' fvod/daerah.terlarang.(2016).html '><button><img class='gfilm' src=' https://upload.wikimedia.org/wikipedia/id/c/c5/Daerah_Terlarang.jpg ' alt=' daerah.terlarang.(2016) '></button></a>";
