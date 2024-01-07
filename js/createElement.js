@@ -495,7 +495,7 @@ a10.innerHTML = "<a class='film' href=' vod/AKA.(2023).dubbing.html '><button><i
 scrollmenu.appendChild(a10);
 
 let a8 = document.createElement('span');
-a8.innerHTML = "<a class='film' href=' vod/20th.Century.Boys.3.Redemption.(2009).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/zf5wTUqciMcSEUjPF5E9O8fBNo9.jpg ' alt=' 20th.Century.Boys.3.Redemption.(2009) '></button></a>";
+a8.innerHTML = "<a class='film' href=' vod/20th.Century.Boys.3.Redemption.(2009).html ' target='_blank'><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/zf5wTUqciMcSEUjPF5E9O8fBNo9.jpg ' alt=' 20th.Century.Boys.3.Redemption.(2009) '></button></a>";
 scrollmenu.appendChild(a8);
 
 zzzzz
