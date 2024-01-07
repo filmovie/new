@@ -70,6 +70,10 @@ let a113 = document.createElement('span');
 a113.innerHTML = "<a class='film' href=' fvod/Leo.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg ' alt=' Leo.(2023).dubbing '></button></a>";
 scrollmenu.appendChild(a113);
 
+let a18 = document.createElement('span');
+a18.innerHTML = "<a class='film' href=' fvod/kung-fu.Hustle.(2004).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg ' alt=' kung-fu.Hustle.(2004) '></button></a>";
+scrollmenu.appendChild(a18);
+
 let a112 = document.createElement('span');
 a112.innerHTML = "<a class='film' href=' fvod/Detective.Conan.Movie.3.The.Last.Wizard.of.the.Century.(1999).Dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/q2v6JmGMVQR0UhUirXuuzXUcAnN.jpg ' alt=' Detective.Conan.Movie.3.The.Last.Wizard.of.the.Century.(1999).Dubbing '></button></a>";
 scrollmenu.appendChild(a112);
@@ -473,10 +477,6 @@ scrollmenu.appendChild(a21);
 let a20 = document.createElement('span');
 a20.innerHTML = "<a class='film' href=' fvod/kkn.di.desa.penari.(2022).html '><button><img class='gfilm' src=' https://image.tmdb.org/t/p/w220_and_h330_face/63InZxeGgfNQCoWkImR14fB99AY.jpg ' alt=' kkn.di.desa.penari.(2022) '></button></a>";
 scrollmenu.appendChild(a20);
-
-let a18 = document.createElement('span');
-a18.innerHTML = "<a class='film' href=' vod/kung-fu.Hustle.(2004).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg ' alt=' kung-fu.Hustle.(2004) '></button></a>";
-scrollmenu.appendChild(a18);
 
 let a17 = document.createElement('span');
 a17.innerHTML = "<a class='film' href=' vod/Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/sJLA2LwMRqqiY3ateI2ERUJPrL6.jpg ' alt=' Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing '></button></a>";
