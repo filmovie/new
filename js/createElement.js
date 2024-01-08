@@ -10,6 +10,10 @@ let a124 = document.createElement('span');
 a124.innerHTML = "<a class='film' href=' fvod/Ford.v.Ferrari.(2019).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg ' alt=' Ford.v.Ferrari.(2019).dubbing '></button></a>";
 scrollmenu.appendChild(a124);
 
+let a13 = document.createElement('span');
+a13.innerHTML = "<a class='film' href=' fvod/avatar.(2009).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg ' alt=' avatar.(2009) '></button></a>";
+scrollmenu.appendChild(a13);
+
 let a24 = document.createElement('span');
 a24.innerHTML = "<a class='film' href=' fvod/Journey.to.the.West.Ask.tao.(2023).html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/ff7fqmj6735l0t4/1680450273-picsay.jpg ' alt=' Journey.to.the.West.Ask.tao.(2023) '></button></a>";
 scrollmenu.appendChild(a24);
@@ -493,10 +497,6 @@ scrollmenu.appendChild(a16);
 let a14 = document.createElement('span');
 a14.innerHTML = "<a class='film' href=' vod/Doctor.Strange.in.the.Multiverse.of.Madness.(2022).Dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg ' alt=' Doctor.Strange.in.the.Multiverse.of.Madness.(2022).Dubbing '></button></a>";
 scrollmenu.appendChild(a14);
-
-let a13 = document.createElement('span');
-a13.innerHTML = "<a class='film' href=' vod/avatar.(2009).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg ' alt=' avatar.(2009) '></button></a>";
-scrollmenu.appendChild(a13);
 
 let a8 = document.createElement('span');
 a8.innerHTML = "<a class='film' href=' vod/20th.Century.Boys.3.Redemption.(2009).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/zf5wTUqciMcSEUjPF5E9O8fBNo9.jpg ' alt=' 20th.Century.Boys.3.Redemption.(2009) '></button></a>";
