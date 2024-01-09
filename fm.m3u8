@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="tv", hbo hits
+http://iptvtree.net:8080/c4596f70/c3848d92/196480
+#EXTINF: -1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="tv", sctv
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="tv", indosiar
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="tv", moji
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWr0fq6Lo-cBYIGDYjUmWDfeK-kyovWpPnQ&usqp=CAU" group-title="tv", rtv
 https://filmovie.github.io/Ze380Tu0p/u5gZf665rt/rtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="tv", wesal tv
@@ -31,6 +41,12 @@ https://filmovie.github.io/Ze380Tu0p/u5gZf665rt/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/01-ttv.png" group-title="tv", transtv
 https://filmovie.github.io/Ze380Tu0p/u5gZf665rt/transtv.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1oRBc0Xom1bMMBBm7uGEjH01LDK.jpg" group-title="filmovie", Back To The Sea (2012) dubbing
+https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/ihZD1.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="filmovie", Rebel Moon - Part One: A Child of Fire (2023) dubbing
+https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/iTlD1.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/t1N4uWXg17fZ5PsqQ0UilKqStBe.jpg" group-title="filmovie", Yowis Ben 2 (2019)
+https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/iTdF1.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg" group-title="filmovie", Ford v Ferrari (2019) dubbing
 https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/k7odF.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg" group-title="filmovie", Suzzanna: Malam Jumat Kliwon (2023)
@@ -106,6 +122,8 @@ https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/mY6d3.m3u8
 https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/tPZm3.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg" group-title="one piece (2023) dubbing", eps6 one piece (2023) dubbing
 https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/iTdF5.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg" group-title="one piece (2023) dubbing", eps7 one piece (2023) dubbing
+https://filmovie.github.io/Ze380Tu0p/i85FtikK9rZ/iTdk1.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps1 squid game (2021) dubbing
 https://filmovie.github.io/tiviku/squid.game.(2021).dubb/squid.game.(2021).dubb.e1.m3u8
