@@ -10,6 +10,22 @@ let a130  = document.createElement('span');
 a130.innerHTML = "<a class='film' href=' fvod/The.Marvels.(2023).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg ' alt=' The.Marvels.(2023) '></button></a>";
 scrollmenu.appendChild(a130);
 
+let a26 = document.createElement('span');
+a26.innerHTML = "<a class='film' href=' fvod/Ghost.Book.Obakezukan.(2022).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/l3BeIb50L527NvfE42KNoyOIUro.jpg ' alt=' Ghost.Book.Obakezukan.(2022) '></button></a>";
+scrollmenu.appendChild(a26);
+
+let a23 = document.createElement('span');
+a23.innerHTML = "<a class='film' href=' fvod/daerah.terlarang.(2016).html '><button><img class='gfilm' src=' https://upload.wikimedia.org/wikipedia/id/c/c5/Daerah_Terlarang.jpg ' alt=' daerah.terlarang.(2016) '></button></a>";
+scrollmenu.appendChild(a23);
+
+let a17 = document.createElement('span');
+a17.innerHTML = "<a class='film' href=' fvod/Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/sJLA2LwMRqqiY3ateI2ERUJPrL6.jpg ' alt=' Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing '></button></a>";
+scrollmenu.appendChild(a17);
+
+let a16 = document.createElement('span');
+a16.innerHTML = "<a class='film' href=' fvod/Tertembaknya.Seorang.Residivis.(1985).html '><button><img class='gfilm' src=' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUV3_OQ5RF0vwulyTKkh5hSw6Hv0S0Mgvgw&usqp=CAU ' alt=' Tertembaknya.Seorang.Residivis.(1985) '></button></a>";
+scrollmenu.appendChild(a16);
+
 let a129  = document.createElement('span');
 a129.innerHTML = "<a class='film' href=' fvod/Raya.and.the.Last.Dragon.(2021).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg ' alt=' Raya.and.the.Last.Dragon.(2021).dubbing '></button></a>";
 scrollmenu.appendChild(a129);
@@ -21,6 +37,10 @@ scrollmenu.appendChild(a128);
 let a127  = document.createElement('span');
 a127.innerHTML = "<a class='film' href=' fvod/Rebel.Moon.Part.One.A.Child.of.Fire.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg ' alt=' Rebel.Moon.Part.One.A.Child.of.Fire.(2023).dubbing '></button></a>";
 scrollmenu.appendChild(a127);
+
+let a27 = document.createElement('span');
+a27.innerHTML = "<a class='film' href=' fvod/Jaka.Swara.(1990).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/tlJDes950LOfoXpwfBEoxmrLR51.jpg ' alt=' Jaka.Swara.(1990) '></button></a>";
+scrollmenu.appendChild(a27);
 
 let a126 = document.createElement('span');
 a126.innerHTML = "<a class='film' href=' fvod/Society.of.the.Snow.(2023).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg ' alt=' Society.of.the.Snow.(2023) '></button></a>";
@@ -501,26 +521,6 @@ scrollmenu.appendChild(a29);
 let a28 = document.createElement('span');
 a28.innerHTML = "<a class='film' href=' fvod/Supercell.(2023).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/gbGHezV6yrhua0KfAgwrknSOiIY.jpg ' alt=' Supercell.(2023) '></button></a>";
 scrollmenu.appendChild(a28);
-
-let a27 = document.createElement('span');
-a27.innerHTML = "<a class='film' href=' fvod/Jaka.Swara.(1990).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/tlJDes950LOfoXpwfBEoxmrLR51.jpg ' alt=' Jaka.Swara.(1990) '></button></a>";
-scrollmenu.appendChild(a27);
-
-let a26 = document.createElement('span');
-a26.innerHTML = "<a class='film' href=' fvod/Ghost.Book.Obakezukan.(2022).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/l3BeIb50L527NvfE42KNoyOIUro.jpg ' alt=' Ghost.Book.Obakezukan.(2022) '></button></a>";
-scrollmenu.appendChild(a26);
-
-let a23 = document.createElement('span');
-a23.innerHTML = "<a class='film' href=' fvod/daerah.terlarang.(2016).html '><button><img class='gfilm' src=' https://upload.wikimedia.org/wikipedia/id/c/c5/Daerah_Terlarang.jpg ' alt=' daerah.terlarang.(2016) '></button></a>";
-scrollmenu.appendChild(a23);
-
-let a17 = document.createElement('span');
-a17.innerHTML = "<a class='film' href=' vod/Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/sJLA2LwMRqqiY3ateI2ERUJPrL6.jpg ' alt=' Episode.One.The.Great.Detective.Turned.Small.(2016).dubbing '></button></a>";
-scrollmenu.appendChild(a17);
-
-let a16 = document.createElement('span');
-a16.innerHTML = "<a class='film' href=' vod/Tertembaknya.Seorang.Residivis.(1985).html '><button><img class='gfilm' src=' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUV3_OQ5RF0vwulyTKkh5hSw6Hv0S0Mgvgw&usqp=CAU ' alt=' Tertembaknya.Seorang.Residivis.(1985) '></button></a>";
-scrollmenu.appendChild(a16);
 
 let a8 = document.createElement('span');
 a8.innerHTML = "<a class='film' href=' vod/20th.Century.Boys.3.Redemption.(2009).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/zf5wTUqciMcSEUjPF5E9O8fBNo9.jpg ' alt=' 20th.Century.Boys.3.Redemption.(2009) '></button></a>";
