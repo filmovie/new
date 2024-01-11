@@ -4,8 +4,12 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing.html
+Astro.Boy.(2009).dubbing.html
 */
+let a132  = document.createElement('span');
+a132.innerHTML = "<a class='film' href=' fvod/Astro.Boy.(2009).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/fYOJaaCpqq1NatziVJntmsXXDi8.jpg ' alt=' Astro.Boy.(2009).dubbing '></button></a>";
+scrollmenu.appendChild(a132);
+
 let a132  = document.createElement('span');
 a132.innerHTML = "<a class='film' href=' fvod/Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/5r5RWODOpkopNizwn99b9qVD6KJ.jpg ' alt=' Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing '></button></a>";
 scrollmenu.appendChild(a132);
