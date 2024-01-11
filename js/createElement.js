@@ -4,8 +4,16 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-The.Marvels.(2023).html
+Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing.html
 */
+let a132  = document.createElement('span');
+a132.innerHTML = "<a class='film' href=' fvod/Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/5r5RWODOpkopNizwn99b9qVD6KJ.jpg ' alt=' Bolts.&.Blip_Battle.of.the.Lunar.League.(2012).dubbing '></button></a>";
+scrollmenu.appendChild(a132);
+
+let a131  = document.createElement('span');
+a131.innerHTML = "<a class='film' href=' fvod/The.Cat.Returns.(2002).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg ' alt=' The.Cat.Returns.(2002).dubbing '></button></a>";
+scrollmenu.appendChild(a131);
+
 let a130  = document.createElement('span');
 a130.innerHTML = "<a class='film' href=' fvod/The.Marvels.(2023).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg ' alt=' The.Marvels.(2023) '></button></a>";
 scrollmenu.appendChild(a130);
