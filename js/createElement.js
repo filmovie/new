@@ -466,10 +466,6 @@ let a80 = document.createElement('span');
 a80.innerHTML = "<a class='film' href=' fvod/Fearless.Love.(2022).html '><button><img class='gfilm' src=' https://i.mydramalist.com/vPYVg_4c.jpg?v=1 ' alt=' Fearless.Love.(2022) '></button></a>";
 scrollmenu.appendChild(a80);
 
-let a79 = document.createElement('span');
-a79.innerHTML = "<a class='film' href=' fvod/Dirty.Fears.(2020).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/emc3fH9BfEdrDnoUB7HYBKcQcmY.jpg ' alt=' Dirty.Fears.(2020) '></button></a>";
-scrollmenu.appendChild(a79);
-
 let a78 = document.createElement('span');
 a78.innerHTML = "<a class='film' href=' fvod/The.Super.Mario.Bros..Movie.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg ' alt=' The.Super.Mario.Bros..Movie.(2023).dubbing '></button></a>";
 scrollmenu.appendChild(a78);
@@ -522,6 +518,8 @@ let a66 = document.createElement('span');
 a66.innerHTML = "<a class='film' href=' fvod/ITU.BISA.DIATUR.(1984).WARKOP.DKI.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/xiLEzS1TvECh0nyhT4jZwajcFco.jpg ' alt=' ITU.BISA.DIATUR.(1984).WARKOP.DKI '></button></a>";
 scrollmenu.appendChild(a66);
 
+/*
+
 let a64 = document.createElement('span');
 a64.innerHTML = "<a class='film' href=' Squid.Game.(2021).Dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg ' alt=' Squid.Game.(2021).Dubbing '></button></a>";
 scrollmenu.appendChild(a64);
@@ -537,5 +535,11 @@ scrollmenu.appendChild(a31);
 let a65 = document.createElement('span');
 a65.innerHTML = "<a class='film' href=' vodi/planes.(2013).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg ' alt=' planes.(2013).dubbing '></button></a>";
 scrollmenu.appendChild(a65);
+
+let a79 = document.createElement('span');
+a79.innerHTML = "<a class='film' href=' fvod/Dirty.Fears.(2020).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/emc3fH9BfEdrDnoUB7HYBKcQcmY.jpg ' alt=' Dirty.Fears.(2020) '></button></a>";
+scrollmenu.appendChild(a79);
+
+*/
 
 zzzzz
