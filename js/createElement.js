@@ -6,6 +6,10 @@ document.body.appendChild(scrollmenu);
 /*
 Astro.Boy.(2009).dubbing.html
 */
+let a134  = document.createElement('span');
+a134.innerHTML = "<a class='film' href=' fvod/Lift.(2024).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg ' alt=' Lift.(2024).dubbing '></button></a>";
+scrollmenu.appendChild(a134);
+
 let a133  = document.createElement('span');
 a133.innerHTML = "<a class='film' href=' fvod/Astro.Boy.(2009).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/fYOJaaCpqq1NatziVJntmsXXDi8.jpg ' alt=' Astro.Boy.(2009).dubbing '></button></a>";
 scrollmenu.appendChild(a133);
