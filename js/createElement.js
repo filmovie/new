@@ -4,8 +4,29 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-Astro.Boy.(2009).dubbing.html
+Pamali.(2022).html
 */
+
+let a136 = document.createElement('span');
+a136.innerHTML = "<a class='film' href=' fvod/Pamali.(2022).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/9VVWEjVupv2z1SyH8hv4Z2wCu2k.jpg ' alt=' Pamali.(2022) '></button></a>";
+scrollmenu.appendChild(a136);
+
+let a135 = document.createElement('span');
+a135.innerHTML = "<a class='film' href=' fvod/Escalation.(2023).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/6VfhJSnfeC1ETqwRSjcVwImzRDW.jpg ' alt=' Escalation.(2023) '></button></a>";
+scrollmenu.appendChild(a135);
+
+let a68 = document.createElement('span');
+a68.innerHTML = "<a class='film' href=' fvod/walet.merah.(1993).barry.prima.html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/kc6nxhptx02cwre/1679534852-picsay.jpg ' alt=' walet.merah.(1993).barry.prima '></button></a>";
+scrollmenu.appendChild(a68);
+
+let a67 = document.createElement('span');
+a67.innerHTML = "<a class='film' href=' fvod/We.Have.a.Ghost.(2023).html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/u6qr9npc3jcmhy8/1678060532-picsay.jpg ' alt=' We.Have.a.Ghost.(2023) '></button></a>";
+scrollmenu.appendChild(a67);
+
+let a66 = document.createElement('span');
+a66.innerHTML = "<a class='film' href=' fvod/ITU.BISA.DIATUR.(1984).WARKOP.DKI.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/xiLEzS1TvECh0nyhT4jZwajcFco.jpg ' alt=' ITU.BISA.DIATUR.(1984).WARKOP.DKI '></button></a>";
+scrollmenu.appendChild(a66);
+
 let a134  = document.createElement('span');
 a134.innerHTML = "<a class='film' href=' fvod/Lift.(2024).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg ' alt=' Lift.(2024).dubbing '></button></a>";
 scrollmenu.appendChild(a134);
@@ -497,18 +518,6 @@ scrollmenu.appendChild(a70);
 let a69 = document.createElement('span');
 a69.innerHTML = "<a class='film' href=' fvod/Toy.Story.(1995).Dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg ' alt=' Toy.Story.(1995).Dubbing '></button></a>";
 scrollmenu.appendChild(a69);
-
-let a68 = document.createElement('span');
-a68.innerHTML = "<a class='film' href=' fvod/walet.merah.(1993).barry.prima.html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/kc6nxhptx02cwre/1679534852-picsay.jpg ' alt=' walet.merah.(1993).barry.prima '></button></a>";
-scrollmenu.appendChild(a68);
-
-let a67 = document.createElement('span');
-a67.innerHTML = "<a class='film' href=' fvod/We.Have.a.Ghost.(2023).html '><button><img class='gfilm' src=' https://dl.dropbox.com/s/u6qr9npc3jcmhy8/1678060532-picsay.jpg ' alt=' We.Have.a.Ghost.(2023) '></button></a>";
-scrollmenu.appendChild(a67);
-
-let a66 = document.createElement('span');
-a66.innerHTML = "<a class='film' href=' fvod/ITU.BISA.DIATUR.(1984).WARKOP.DKI.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/xiLEzS1TvECh0nyhT4jZwajcFco.jpg ' alt=' ITU.BISA.DIATUR.(1984).WARKOP.DKI '></button></a>";
-scrollmenu.appendChild(a66);
 
 /*
 
