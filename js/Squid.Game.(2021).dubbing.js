@@ -12,3 +12,7 @@ frm.appendChild(form);
 let a1 = document.createElement('span');
 a1.innerHTML = "<a class='film' href=' fvod/e1Squid.Game.(2021).dubbingv.html '><button class='gf'><p><b>eps.01</b></p></button></a>";
 scrollmenu.appendChild(a1);
+
+let a2 = document.createElement('span');
+a2.innerHTML = "<a class='film' href=' fvod/e2Squid.Game.(2021).dubbingv.html '><button class='gf'><p><b>eps.02</b></p></button></a>";
+scrollmenu.appendChild(a2);
