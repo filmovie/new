@@ -4,8 +4,28 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-Yowis.Ben.3.(2021).html
+Dirty.Fears.(2020).html
 */
+
+let a143 = document.createElement('span');
+a143.innerHTML = "<a class='film' href=' fvod/Dirty.Fears.(2020).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/emc3fH9BfEdrDnoUB7HYBKcQcmY.jpg ' alt=' Dirty.Fears.(2020) '></button></a>";
+scrollmenu.appendChild(a143);
+
+let a77 = document.createElement('span');
+a77.innerHTML = "<a class='film' href=' fvod/Ratu.Buaya.Putih.(1988).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/4iyL0l2q6pJFSrhxI5YwxDmyB7Z.jpg ' alt=' Ratu.Buaya.Putih.(1988) '></button></a>";
+scrollmenu.appendChild(a77);
+
+let a142 = document.createElement('span');
+a142.innerHTML = "<a class='film' href=' fvod/The.Gangster,the.Cop,the.Devil.(2019).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg ' alt=' The.Gangster,the.Cop,the.Devil.(2019) '></button></a>";
+scrollmenu.appendChild(a142);
+
+let a76 = document.createElement('span');
+a76.innerHTML = "<a class='film' href=' fvod/Kaluskos.(2022).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/tSMIEtpdwR3wb422I1dvL114jlz.jpg ' alt=' Kaluskos.(2022) '></button></a>";
+scrollmenu.appendChild(a76);
+
+let a141 = document.createElement('span');
+a141.innerHTML = "<a class='film' href=' fvod/Pengabdi.Setan.(2017).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/xTWgncjZOrMmSjaEwA3DLOxaqf0.jpg ' alt=' Pengabdi.Setan.(2017) '></button></a>";
+scrollmenu.appendChild(a141);
 
 let a140 = document.createElement('span');
 a140.innerHTML = "<a class='film' href=' fvod/Yowis.Ben.3.(2021).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/qCOBtAaG1IceuqgcipXdDTmRFQP.jpg ' alt=' Yowis.Ben.3.(2021) '></button></a>";
@@ -530,14 +550,6 @@ scrollmenu.appendChild(a80);
 let a78 = document.createElement('span');
 a78.innerHTML = "<a class='film' href=' fvod/The.Super.Mario.Bros..Movie.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg ' alt=' The.Super.Mario.Bros..Movie.(2023).dubbing '></button></a>";
 scrollmenu.appendChild(a78);
-
-let a77 = document.createElement('span');
-a77.innerHTML = "<a class='film' href=' fvod/Ratu.Buaya.Putih.(1988).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/4iyL0l2q6pJFSrhxI5YwxDmyB7Z.jpg ' alt=' Ratu.Buaya.Putih.(1988) '></button></a>";
-scrollmenu.appendChild(a77);
-
-let a76 = document.createElement('span');
-a76.innerHTML = "<a class='film' href=' fvod/Kaluskos.(2022).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/tSMIEtpdwR3wb422I1dvL114jlz.jpg ' alt=' Kaluskos.(2022) '></button></a>";
-scrollmenu.appendChild(a76);
 
 /*
 
