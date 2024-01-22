@@ -4,8 +4,28 @@ scrollmenu.className = "scrollmenu";
 document.body.appendChild(scrollmenu);
 
 /*
-Dirty.Fears.(2020).html
+Tokyo.Revengers.(2021).html
 */
+
+let a146 = document.createElement('span');
+a146.innerHTML = "<a class='film' href=' fvod/Tokyo.Revengers.(2021).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/q8Q2VBt3rP0cSG3hNerIQuogLAH.jpg ' alt=' Tokyo.Revengers.(2021) '></button></a>";
+scrollmenu.appendChild(a146);
+
+let a78 = document.createElement('span');
+a78.innerHTML = "<a class='film' href=' fvod/The.Super.Mario.Bros..Movie.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg ' alt=' The.Super.Mario.Bros..Movie.(2023).dubbing '></button></a>";
+scrollmenu.appendChild(a78);
+
+let a145 = document.createElement('span');
+a145.innerHTML = "<a class='film' href=' fvod/Monster.Hunter_ Legends.of.the.Guild.(2021).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/fctSbleL7ozVcGyC163nPv4arW1.jpg ' alt=' Monster.Hunter_ Legends.of.the.Guild.(2021) '></button></a>";
+scrollmenu.appendChild(a145);
+
+let a144 = document.createElement('span');
+a144.innerHTML = "<a class='film' href=' fvod/Inside.Out.(2015).dubbing.html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg ' alt=' Inside.Out.(2015).dubbing '></button></a>";
+scrollmenu.appendChild(a144);
+
+let a80 = document.createElement('span');
+a80.innerHTML = "<a class='film' href=' fvod/Fearless.Love.(2022).html '><button><img class='gfilm' src=' https://i.mydramalist.com/vPYVg_4c.jpg?v=1 ' alt=' Fearless.Love.(2022) '></button></a>";
+scrollmenu.appendChild(a80);
 
 let a143 = document.createElement('span');
 a143.innerHTML = "<a class='film' href=' fvod/Dirty.Fears.(2020).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/emc3fH9BfEdrDnoUB7HYBKcQcmY.jpg ' alt=' Dirty.Fears.(2020) '></button></a>";
@@ -542,14 +562,6 @@ scrollmenu.appendChild(a82);
 let a81 = document.createElement('span');
 a81.innerHTML = "<a class='film' href=' fvod/Foxtrot.Six.(2019).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/o7c8FKCZFIrLKrZSzgqufvNo4mr.jpg ' alt=' Foxtrot.Six.(2019) '></button></a>";
 scrollmenu.appendChild(a81);
-
-let a80 = document.createElement('span');
-a80.innerHTML = "<a class='film' href=' fvod/Fearless.Love.(2022).html '><button><img class='gfilm' src=' https://i.mydramalist.com/vPYVg_4c.jpg?v=1 ' alt=' Fearless.Love.(2022) '></button></a>";
-scrollmenu.appendChild(a80);
-
-let a78 = document.createElement('span');
-a78.innerHTML = "<a class='film' href=' fvod/The.Super.Mario.Bros..Movie.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/iXD2VjzyXmOGJrR0Kt46IUpH3DE.jpg ' alt=' The.Super.Mario.Bros..Movie.(2023).dubbing '></button></a>";
-scrollmenu.appendChild(a78);
 
 /*
 
