@@ -22,5 +22,5 @@ a3.innerHTML = "<a class='film' href=' fvod/e3Squid.Game.(2021).dubbingv.html '>
 scrollmenu.appendChild(a3);
 
 let a4 = document.createElement('span');
-a4.innerHTML = "<a class='film' href=' fvod/e4Squid.Game.(2021).dubbingv.html '><button class='gf'><p><b>eps.03</b></p></button></a>";
+a4.innerHTML = "<a class='film' href=' fvod/e4Squid.Game.(2021).dubbingv.html '><button class='gf'><p><b>eps.04</b></p></button></a>";
 scrollmenu.appendChild(a4);
