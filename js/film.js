@@ -5,7 +5,7 @@ document.head.appendChild(meta);
 
 var hasil = document.getElementById("marquee");
 
-hasil.innerHTML = "<p><b>update film otomatis</b></p>";
+hasil.innerHTML = "<p><b>film akan bertambah otomatis</b></p>";
 
 function prosesMenu(){
 
