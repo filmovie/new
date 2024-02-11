@@ -11,6 +11,14 @@ let a165 = document.createElement('span');
 a165.innerHTML = "<a class='film' href=' fvod/The.Man.from.Rome.(2022).html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/eBfkQHFs2Xrerd9Ragul7IgWaUa.jpg ' alt=' The.Man.from.Rome.(2022) '></button></a>";
 scrollmenu.appendChild(a165);
 
+let a31 = document.createElement('span');
+a31.innerHTML = "<a class='film' href=' fvod/Luca.(2021).dubbing.html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg ' alt=' Luca.(2021).dubbing '></button></a>";
+scrollmenu.appendChild(a31);
+
+let a64 = document.createElement('span');
+a64.innerHTML = "<a class='film' href=' Squid.Game.(2021).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg ' alt=' Squid.Game.(2021).Dubbing '></button></a>";
+scrollmenu.appendChild(a64);
+
 let a7 = document.createElement('span');
 a7.innerHTML = "<a class='film' href=' fvod/Marlowe.(2022).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/th6vfqUtkGx69NI9TGa9gpOl7xg.jpg ' alt=' Marlowe.(2022) '></button></a>";
 scrollmenu.appendChild(a7);
@@ -226,10 +234,6 @@ scrollmenu.appendChild(a74);
 let a139 = document.createElement('span');
 a139.innerHTML = "<a class='film' href=' fvod/San.Andreas.(2015).dubbing.html '><button><img class='gfilm' src=' https://media.themoviedb.org/t/p/w220_and_h330_face/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg ' alt=' San.Andreas.(2015).dubbing '></button></a>";
 scrollmenu.appendChild(a139);
-
-let a64 = document.createElement('span');
-a64.innerHTML = "<a class='film' href=' Squid.Game.(2021).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg ' alt=' Squid.Game.(2021).Dubbing '></button></a>";
-scrollmenu.appendChild(a64);
 
 let a73 = document.createElement('span');
 a73.innerHTML = "<a class='film' href=' fvod/Gemini.Man.(2019).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg ' alt=' Gemini.Man.(2019) '></button></a>";
@@ -648,10 +652,6 @@ scrollmenu.appendChild(a3);
 let a38 = document.createElement('span');
 a38.innerHTML = "<a class='film' href=' one.piece.(2023).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/lXl3ZbY5TksOdt6eYgdyg6vsnFW.jpg ' alt=' one.piece.(2023).dubbing '></button></a>";
 scrollmenu.appendChild(a38);
-
-let a31 = document.createElement('span');
-a31.innerHTML = "<a class='film' href=' fvod/Dilwale.(2015).html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w220_and_h330_face/pYgPu6hhOr61knwbestTx4vSdMb.jpg ' alt=' Dilwale.(2015) '></button></a>";
-scrollmenu.appendChild(a31);
 
 let a65 = document.createElement('span');
 a65.innerHTML = "<a class='film' href=' vodi/planes.(2013).dubbing.html '><button><img class='gfilm' src=' https://www.themoviedb.org/t/p/w188_and_h282_bestv2/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg ' alt=' planes.(2013).dubbing '></button></a>";
