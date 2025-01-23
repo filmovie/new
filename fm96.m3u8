@@ -6,18 +6,22 @@ FACEBOOK GRUP
 
 https://m.facebook.com/groups/1520520245453160/?ref=share&mibextid=K8Wfd2
 
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="tv", metro tv
+https://filmovie.github.io/yip3fft/fmtvonytq996/metro_tv.m3u8
+#EXTINF: -1 tvg-logo="https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="tv", jogja tv
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-n_v89kGsBksVfYq5VeruHqOyMDa4BQeG65ebXb21-dM_rrnfDZPVlRSFgp5IbyRE2u8H52IUtgRd4Qm8QlNk2-IS7nJVdfVvqvHqA=w360-h684-rw-sm-pa-nu-v0" group-title="tv", trans7
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/trans77y.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/JcVB-uW4TWIjwEjPHhOkhkoJ2OL5XKAs0iBLv161C1fcj7mmtLwGTqNJlzgsGm_Ylk7Y4JOYO24gibdxAhq3v-76GI2sUOn6fLM2Fw=w360-h684-rw-sm-pa-nu-v0" group-title="tv", transtv
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/transtvy.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/transtv.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLrfHvqpdJqnqSijQWPMgzuuDYhg_Uq4FneZkhJ4CNyhXT3LpH3yE-DA&s=10" group-title="tv", tvri sport hd
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/tvri_sporthd.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbCUBYH4Im290EaaTmqm33uUQzbg2sNFOMUH3ROKvcX80O17D_2qVa0Q&s=10" group-title="tv", real madrid tv
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/realmadridtv6.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/real_madrid_tv.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSriQJC4-9i3VF6lPIzHXR9oMB3AmalLtS9b5b9iFRsfeHpXln_Ti3hFHU&s=10" group-title="tv", mu tv
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/mutvu7.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/mu_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="tv", magna channel
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/magnachann.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/magna_channel.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="tv", sangaji tv
 https://filmovie.github.io/yip3fft/i85FtikK9rZ/sangajitvu.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="tv", sakti tv
@@ -64,7 +68,6 @@ https://filmovie.github.io/yip3fft/i85FtikK9rZ/ilpl3.m3u8
 https://filmovie.github.io/yip3fft/i85FtikK9rZ/ilp63.m3u8
 #EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="filmovie", Spider-Man (2002)
 https://filmovie.github.io/yip3fft/i85FtikK9rZ/ilp78.m3u8
-
 #EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/s2CgFdVuTxcjiBb0cMxArmrbbRi.jpg" group-title="filmovie-dubbing", Saur Sepuh V: Istana Atap Langit (1992)
 https://filmovie.github.io/yip3fft/i85FtikK9rZ/h1u76i.m3u8
 #EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/vEDH2MHtStOSjXd4SA96zMH6KMj.jpg" group-title="filmovie-dubbing", Kajiman: Iblis Terkejam Penagih Janji (2023)
