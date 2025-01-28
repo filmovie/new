@@ -6,13 +6,14 @@ FACEBOOK GRUP
 
 https://m.facebook.com/groups/1520520245453160/?ref=share&mibextid=K8Wfd2
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="tv", banten tv
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/bantentvy.m3u8
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/ofAMEFWQ8PPxuyryFhWKlLC2DtI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-102aab.jpg" group-title="tv", garuda tv
+https://filmovie.github.io/yip3fft/fmtvonytq996/garuda_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="tv", duta tv
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
+https://filmovie.github.io/yip3fft/fmtvonytq996/duta_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="tv", mqtv
-https://filmovie.github.io/yip3fft/i85FtikK9rZ/mqtv6.m3u8
-
+https://filmovie.github.io/yip3fft/fmtvonytq996/mqtv.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="tv", banten tv
+https://filmovie.github.io/yip3fft/fmtvonytq996/banten_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="tv", tv9 nusantara
 https://filmovie.github.io/yip3fft/fmtvonytq996/tv9_nusantara.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="tv", inspira tv
