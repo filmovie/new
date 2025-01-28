@@ -6,6 +6,10 @@ FACEBOOK GRUP
 
 https://m.facebook.com/groups/1520520245453160/?ref=share&mibextid=K8Wfd2
 
+#EXTINF: -1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="tv", rodja tv
+https://filmovie.github.io/yip3fft/fmtvonytq996/rodja_tv.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="tv", tvku tv
+https://filmovie.github.io/yip3fft/fmtvonytq996/tvku.m3u8
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/ofAMEFWQ8PPxuyryFhWKlLC2DtI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-102aab.jpg" group-title="tv", garuda tv
 https://filmovie.github.io/yip3fft/fmtvonytq996/garuda_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="tv", duta tv
