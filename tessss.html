@@ -5,15 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IPTV Player</title>
     <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #181818;
-            color: #fff;
-            display: flex;
-            height: 100vh;
+
+        
+
+        video {
+
+            width: 100%;
+
+            height: auto;
+
         }
 
+
+        #channel-list {
+
+            margin-top: 1px;
+
+            max-height: 500px;
+
+            overflow-y: auto;
+
+        }
+        
         .sidebar {
             width: 300px;
             background-color: #202020;
@@ -57,27 +70,22 @@
             align-items: center;
             background-color: #121212;
         }
-
-        video {
-            width: 100%;
-            height: auto;
-            max-width: 1000px;
-            border: 2px solid #444;
-            border-radius: 10px;
-        }
+        
     </style>
 </head>
 <body>
     <div class="sidebar">
+    				<video id="player" controls>
+            <!-- Video akan diputar di sini -->
+        </video>
         <h2>Saluran</h2>
+        
         <ul id="channel-list">
              <!-- Saluran akan dimuat di sini -->
         </ul>
     </div>
     <div class="content">
-        <video id="player" controls>
-            <!-- Video akan diputar di sini -->
-        </video>
+        
     </div>
 
     <script>
