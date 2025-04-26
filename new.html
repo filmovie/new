@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Player</title>
+    <style>
+        video {
+            width: 100%;
+            height: auto;
+        }
+        #channel-list {
+            margin-top: 1px;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        .sidebar {
+            width: 300px;
+            background-color: #202020;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        .sidebar h2 {
+            color: #ff0000;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        .sidebar ul {
+            list-style: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .sidebar ul li img {
+            width: 40px; /* Adjust logo size */
+            height: auto;
+            margin-right: 10px;
+        }
+        .sidebar ul li a {
+            color: #fff;
+            text-decoration: none;
+            display: block;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #333;
+            flex: 1; /* Make the anchor fill the remaining space */
+        }
+        .sidebar ul li a:hover {
+            background-color: #444;
+        }
+        .search-bar {
+            margin-bottom: 20px;
+        }
+        .search-bar input {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #333;
+        }
+        .content {
+            flex: 1;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #121212;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <video id="player" controls>
+            <!-- Video akan diputar di sini -->
+        </video>
+        <h2>Saluran</h2>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Cari saluran...">
+        </div>
+        <ul id="channel-list">
+            <!-- Saluran akan dimuat di sini -->
+        </ul>
+    </div>
+    <div class="content">
+        <!-- Content area -->
+    </div>
+    <script>
+        // Jalur ke file m3u
+        const m3uUrl = 'https://filmovie.github.io/new/p.m3u8'; // Replace with your M3U URL
+
+        // Ambil file m3u dan analisis data
+        fetch(m3uUrl)
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                const channelList = document.getElementById('channel-list');
+
+                let currentChannel = null;
+                lines.forEach(line => {
+                    if (line.startsWith('#EXTINF:')) {
+                        const channelInfo = line.split(',');
+                        const title = channelInfo[1].trim();
+                        const logo = channelInfo[0].match(/tvg-logo="([^"]+)"/)[1];
+                        const urlIndex = lines.indexOf(line) + 1;
+                        const streamUrl = lines[urlIndex].trim();
+
+                        if (streamUrl) {
+                            const listItem = document.createElement('li');
+                            listItem.innerHTML = `
+                                <img src="${logo}" alt="${title} Logo">
+                                <a href="#" data-url="${streamUrl}">${title}</a>
+                            `;
+                            channelList.appendChild(listItem);
+                            
+                            listItem.querySelector('a').onclick = (event) => {
+                                event.preventDefault();
+                                const player = document.getElementById('player');
+                                player.src = streamUrl;
+                                player.play();
+                            };
+                        }
+                    }
+                });
+
+                // Search filter
+                const searchInput = document.getElementById('search');
+                searchInput.addEventListener('input', () => {
+                    const filter = searchInput.value.toLowerCase();
+                    const items = channelList.getElementsByTagName('li');
+
+                    for (let i = 0; i < items.length; i++) {
+                        const title = items[i].textContent || items[i].innerText;
+                        items[i].style.display = title.toLowerCase().includes(filter) ? '' : 'none';
+                    }
+                });
+            })
+            .catch(err => console.error('Error fetching the M3U file:', err));
+    </script>
+</body>
+</html>
